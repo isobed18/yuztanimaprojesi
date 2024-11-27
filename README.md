@@ -56,9 +56,10 @@ Bu bölüm, otomatik olarak yüz tanıma ile yoklama alan projenin **Öğrenci B
 
 ## **📞 Destek Ve İletişim**
 
-Eğer herhangi bir sorun yaşarsanız veya geliştirme konusunda yardıma ihtiyacınız olursa [**Destek Sayfasına**](#) başvurabilirsiniz.
-ishakbediryorganci@gmail.com İshak Bedir Yorgancı 
--brn28asr@gmail.com Baran Asar
--aecoskuno@gmail.com Ahmet Emir Coşkun
--yusuf78duman@gmail.com Yusuf Duman
--mustafa.temur.turan@gmail.com Mustafa Temur Turan ( Yüz Tanıma bölümünden sorumlu 
+Eğer herhangi bir sorun yaşarsanız veya geliştirme konusunda yardıma ihtiyacınız olursa ekip üyelerinden birine başvurabilirsiniz.
+- **İshak Bedir Yorgancı** ishakbediryorganci@gmail.com 
+- **Baran Asar** brn28asr@gmail.com 
+- **Ahmet Emir Coşkun** aecoskuno@gmail.com 
+- **Yusuf Duman** yusuf78duman@gmail.com 
+- **Necmettin Sönmez** sonmezn232@gmail.com
+- **Mustafa Temur Turan** mustafa.temur.turan@gmail.com  ( Yüz Tanıma bölümünden sorumlu ekip üyesi )
