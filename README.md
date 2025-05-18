@@ -1,6 +1,6 @@
 # **Yüz Tanıma Projesi: OBS Bölümü**
 
-Bu bölüm, otomatik olarak yüz tanıma ile yoklama alan projenin **Öğrenci Bilgi Sistemi (OBS)** kısmını kapsamaktadır. Proje, giriş ekranı ile **admin**, **öğrenci** ve **öğretmen** ekranlarını içerir. Kullanıcılar, kendi rollerine uygun işlemleri gerçekleştirebilir, yoklama verilerini görebilir ve **Windows Forms** arayüzü üzerinden verileri yönetebilir.
+Bu bölüm, otomatik olarak yüz tanıma ile yoklama alan projenin **Öğrenci Bilgi Sistemi (OBS)** kısmını kapsamaktadır. Proje, giriş ekranı ile **Admin**, **Öğrenci** ve **Öğretmen** ekranlarını içerir. Kullanıcılar, kendi rollerine uygun işlemleri gerçekleştirebilir, yoklama verilerini görebilir ve **Windows Forms** arayüzü üzerinden verileri yönetebilir.
 
 ---
 
