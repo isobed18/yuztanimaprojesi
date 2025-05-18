@@ -6,7 +6,7 @@ Bu bölüm, otomatik olarak yüz tanıma ile yoklama alan projenin **Öğrenci B
 
 ## **📋 Gereksinimler**
 
-- **C#** (Geliştirme ve çalıştırma için gerekli programlama dili)
+- **C#** (Geliştirme ve çalıştırmak için gerekli programlama dili)
 - **Visual Studio** (Proje derleme ve geliştirme ortamı)
 - Bir veritabanı bağlantısı (örneğin, SQL Server)
 
